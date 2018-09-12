@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aac47cee7313b44386713fa7b7fc303, type: 3}
+  m_Name: fantasy_creatures_325
+  m_EditorClassIdentifier: 
+  AllSprites:
+  - {fileID: 21301454, guid: 8528306b2ea19844eaa3cba4bc2a6d1d, type: 3}
+  - {fileID: 21301490, guid: 8528306b2ea19844eaa3cba4bc2a6d1d, type: 3}
+  AssetName: fantasy_creatures_325

@@ -1,0 +1,5024 @@
+fileFormatVersion: 2
+guid: 380d8fcf987685f45ab5726895a05236
+timeCreated: 1450405912
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oryx_16bit_fantasy_world_autowall_0
+    21300002: oryx_16bit_fantasy_world_autowall_1
+    21300004: oryx_16bit_fantasy_world_autowall_2
+    21300006: oryx_16bit_fantasy_world_autowall_3
+    21300008: oryx_16bit_fantasy_world_autowall_4
+    21300010: oryx_16bit_fantasy_world_autowall_5
+    21300012: oryx_16bit_fantasy_world_autowall_6
+    21300014: oryx_16bit_fantasy_world_autowall_7
+    21300016: oryx_16bit_fantasy_world_autowall_8
+    21300018: oryx_16bit_fantasy_world_autowall_9
+    21300020: oryx_16bit_fantasy_world_autowall_10
+    21300022: oryx_16bit_fantasy_world_autowall_11
+    21300024: oryx_16bit_fantasy_world_autowall_12
+    21300026: oryx_16bit_fantasy_world_autowall_13
+    21300028: oryx_16bit_fantasy_world_autowall_14
+    21300030: oryx_16bit_fantasy_world_autowall_15
+    21300032: oryx_16bit_fantasy_world_autowall_16
+    21300034: oryx_16bit_fantasy_world_autowall_17
+    21300036: oryx_16bit_fantasy_world_autowall_18
+    21300038: oryx_16bit_fantasy_world_autowall_19
+    21300040: oryx_16bit_fantasy_world_autowall_20
+    21300042: oryx_16bit_fantasy_world_autowall_21
+    21300044: oryx_16bit_fantasy_world_autowall_22
+    21300046: oryx_16bit_fantasy_world_autowall_23
+    21300048: oryx_16bit_fantasy_world_autowall_24
+    21300050: oryx_16bit_fantasy_world_autowall_25
+    21300052: oryx_16bit_fantasy_world_autowall_26
+    21300054: oryx_16bit_fantasy_world_autowall_27
+    21300056: oryx_16bit_fantasy_world_autowall_28
+    21300058: oryx_16bit_fantasy_world_autowall_29
+    21300060: oryx_16bit_fantasy_world_autowall_30
+    21300062: oryx_16bit_fantasy_world_autowall_31
+    21300064: oryx_16bit_fantasy_world_autowall_32
+    21300066: oryx_16bit_fantasy_world_autowall_33
+    21300068: oryx_16bit_fantasy_world_autowall_34
+    21300070: oryx_16bit_fantasy_world_autowall_35
+    21300072: oryx_16bit_fantasy_world_autowall_36
+    21300074: oryx_16bit_fantasy_world_autowall_37
+    21300076: oryx_16bit_fantasy_world_autowall_38
+    21300078: oryx_16bit_fantasy_world_autowall_39
+    21300080: oryx_16bit_fantasy_world_autowall_40
+    21300082: oryx_16bit_fantasy_world_autowall_41
+    21300084: oryx_16bit_fantasy_world_autowall_42
+    21300086: oryx_16bit_fantasy_world_autowall_43
+    21300088: oryx_16bit_fantasy_world_autowall_44
+    21300090: oryx_16bit_fantasy_world_autowall_45
+    21300092: oryx_16bit_fantasy_world_autowall_46
+    21300094: oryx_16bit_fantasy_world_autowall_47
+    21300096: oryx_16bit_fantasy_world_autowall_48
+    21300098: oryx_16bit_fantasy_world_autowall_49
+    21300100: oryx_16bit_fantasy_world_autowall_50
+    21300102: oryx_16bit_fantasy_world_autowall_51
+    21300104: oryx_16bit_fantasy_world_autowall_52
+    21300106: oryx_16bit_fantasy_world_autowall_53
+    21300108: oryx_16bit_fantasy_world_autowall_54
+    21300110: oryx_16bit_fantasy_world_autowall_55
+    21300112: oryx_16bit_fantasy_world_autowall_56
+    21300114: oryx_16bit_fantasy_world_autowall_57
+    21300116: oryx_16bit_fantasy_world_autowall_58
+    21300118: oryx_16bit_fantasy_world_autowall_59
+    21300120: oryx_16bit_fantasy_world_autowall_60
+    21300122: oryx_16bit_fantasy_world_autowall_61
+    21300124: oryx_16bit_fantasy_world_autowall_62
+    21300126: oryx_16bit_fantasy_world_autowall_63
+    21300128: oryx_16bit_fantasy_world_autowall_64
+    21300130: oryx_16bit_fantasy_world_autowall_65
+    21300132: oryx_16bit_fantasy_world_autowall_66
+    21300134: oryx_16bit_fantasy_world_autowall_67
+    21300136: oryx_16bit_fantasy_world_autowall_68
+    21300138: oryx_16bit_fantasy_world_autowall_69
+    21300140: oryx_16bit_fantasy_world_autowall_70
+    21300142: oryx_16bit_fantasy_world_autowall_71
+    21300144: oryx_16bit_fantasy_world_autowall_72
+    21300146: oryx_16bit_fantasy_world_autowall_73
+    21300148: oryx_16bit_fantasy_world_autowall_74
+    21300150: oryx_16bit_fantasy_world_autowall_75
+    21300152: oryx_16bit_fantasy_world_autowall_76
+    21300154: oryx_16bit_fantasy_world_autowall_77
+    21300156: oryx_16bit_fantasy_world_autowall_78
+    21300158: oryx_16bit_fantasy_world_autowall_79
+    21300160: oryx_16bit_fantasy_world_autowall_80
+    21300162: oryx_16bit_fantasy_world_autowall_81
+    21300164: oryx_16bit_fantasy_world_autowall_82
+    21300166: oryx_16bit_fantasy_world_autowall_83
+    21300168: oryx_16bit_fantasy_world_autowall_84
+    21300170: oryx_16bit_fantasy_world_autowall_85
+    21300172: oryx_16bit_fantasy_world_autowall_86
+    21300174: oryx_16bit_fantasy_world_autowall_87
+    21300176: oryx_16bit_fantasy_world_autowall_88
+    21300178: oryx_16bit_fantasy_world_autowall_89
+    21300180: oryx_16bit_fantasy_world_autowall_90
+    21300182: oryx_16bit_fantasy_world_autowall_91
+    21300184: oryx_16bit_fantasy_world_autowall_92
+    21300186: oryx_16bit_fantasy_world_autowall_93
+    21300188: oryx_16bit_fantasy_world_autowall_94
+    21300190: oryx_16bit_fantasy_world_autowall_95
+    21300192: oryx_16bit_fantasy_world_autowall_96
+    21300194: oryx_16bit_fantasy_world_autowall_97
+    21300196: oryx_16bit_fantasy_world_autowall_98
+    21300198: oryx_16bit_fantasy_world_autowall_99
+    21300200: oryx_16bit_fantasy_world_autowall_100
+    21300202: oryx_16bit_fantasy_world_autowall_101
+    21300204: oryx_16bit_fantasy_world_autowall_102
+    21300206: oryx_16bit_fantasy_world_autowall_103
+    21300208: oryx_16bit_fantasy_world_autowall_104
+    21300210: oryx_16bit_fantasy_world_autowall_105
+    21300212: oryx_16bit_fantasy_world_autowall_106
+    21300214: oryx_16bit_fantasy_world_autowall_107
+    21300216: oryx_16bit_fantasy_world_autowall_108
+    21300218: oryx_16bit_fantasy_world_autowall_109
+    21300220: oryx_16bit_fantasy_world_autowall_110
+    21300222: oryx_16bit_fantasy_world_autowall_111
+    21300224: oryx_16bit_fantasy_world_autowall_112
+    21300226: oryx_16bit_fantasy_world_autowall_113
+    21300228: oryx_16bit_fantasy_world_autowall_114
+    21300230: oryx_16bit_fantasy_world_autowall_115
+    21300232: oryx_16bit_fantasy_world_autowall_116
+    21300234: oryx_16bit_fantasy_world_autowall_117
+    21300236: oryx_16bit_fantasy_world_autowall_118
+    21300238: oryx_16bit_fantasy_world_autowall_119
+    21300240: oryx_16bit_fantasy_world_autowall_120
+    21300242: oryx_16bit_fantasy_world_autowall_121
+    21300244: oryx_16bit_fantasy_world_autowall_122
+    21300246: oryx_16bit_fantasy_world_autowall_123
+    21300248: oryx_16bit_fantasy_world_autowall_124
+    21300250: oryx_16bit_fantasy_world_autowall_125
+    21300252: oryx_16bit_fantasy_world_autowall_126
+    21300254: oryx_16bit_fantasy_world_autowall_127
+    21300256: oryx_16bit_fantasy_world_autowall_128
+    21300258: oryx_16bit_fantasy_world_autowall_129
+    21300260: oryx_16bit_fantasy_world_autowall_130
+    21300262: oryx_16bit_fantasy_world_autowall_131
+    21300264: oryx_16bit_fantasy_world_autowall_132
+    21300266: oryx_16bit_fantasy_world_autowall_133
+    21300268: oryx_16bit_fantasy_world_autowall_134
+    21300270: oryx_16bit_fantasy_world_autowall_135
+    21300272: oryx_16bit_fantasy_world_autowall_136
+    21300274: oryx_16bit_fantasy_world_autowall_137
+    21300276: oryx_16bit_fantasy_world_autowall_138
+    21300278: oryx_16bit_fantasy_world_autowall_139
+    21300280: oryx_16bit_fantasy_world_autowall_140
+    21300282: oryx_16bit_fantasy_world_autowall_141
+    21300284: oryx_16bit_fantasy_world_autowall_142
+    21300286: oryx_16bit_fantasy_world_autowall_143
+    21300288: oryx_16bit_fantasy_world_autowall_144
+    21300290: oryx_16bit_fantasy_world_autowall_145
+    21300292: oryx_16bit_fantasy_world_autowall_146
+    21300294: oryx_16bit_fantasy_world_autowall_147
+    21300296: oryx_16bit_fantasy_world_autowall_148
+    21300298: oryx_16bit_fantasy_world_autowall_149
+    21300300: oryx_16bit_fantasy_world_autowall_150
+    21300302: oryx_16bit_fantasy_world_autowall_151
+    21300304: oryx_16bit_fantasy_world_autowall_152
+    21300306: oryx_16bit_fantasy_world_autowall_153
+    21300308: oryx_16bit_fantasy_world_autowall_154
+    21300310: oryx_16bit_fantasy_world_autowall_155
+    21300312: oryx_16bit_fantasy_world_autowall_156
+    21300314: oryx_16bit_fantasy_world_autowall_157
+    21300316: oryx_16bit_fantasy_world_autowall_158
+    21300318: oryx_16bit_fantasy_world_autowall_159
+    21300320: oryx_16bit_fantasy_world_autowall_160
+    21300322: oryx_16bit_fantasy_world_autowall_161
+    21300324: oryx_16bit_fantasy_world_autowall_162
+    21300326: oryx_16bit_fantasy_world_autowall_163
+    21300328: oryx_16bit_fantasy_world_autowall_164
+    21300330: oryx_16bit_fantasy_world_autowall_165
+    21300332: oryx_16bit_fantasy_world_autowall_166
+    21300334: oryx_16bit_fantasy_world_autowall_167
+    21300336: oryx_16bit_fantasy_world_autowall_168
+    21300338: oryx_16bit_fantasy_world_autowall_169
+    21300340: oryx_16bit_fantasy_world_autowall_170
+    21300342: oryx_16bit_fantasy_world_autowall_171
+    21300344: oryx_16bit_fantasy_world_autowall_172
+    21300346: oryx_16bit_fantasy_world_autowall_173
+    21300348: oryx_16bit_fantasy_world_autowall_174
+    21300350: oryx_16bit_fantasy_world_autowall_175
+    21300352: oryx_16bit_fantasy_world_autowall_176
+    21300354: oryx_16bit_fantasy_world_autowall_177
+    21300356: oryx_16bit_fantasy_world_autowall_178
+    21300358: oryx_16bit_fantasy_world_autowall_179
+    21300360: oryx_16bit_fantasy_world_autowall_180
+    21300362: oryx_16bit_fantasy_world_autowall_181
+    21300364: oryx_16bit_fantasy_world_autowall_182
+    21300366: oryx_16bit_fantasy_world_autowall_183
+    21300368: oryx_16bit_fantasy_world_autowall_184
+    21300370: oryx_16bit_fantasy_world_autowall_185
+    21300372: oryx_16bit_fantasy_world_autowall_186
+    21300374: oryx_16bit_fantasy_world_autowall_187
+    21300376: oryx_16bit_fantasy_world_autowall_188
+    21300378: oryx_16bit_fantasy_world_autowall_189
+    21300380: oryx_16bit_fantasy_world_autowall_190
+    21300382: oryx_16bit_fantasy_world_autowall_191
+    21300384: oryx_16bit_fantasy_world_autowall_192
+    21300386: oryx_16bit_fantasy_world_autowall_193
+    21300388: oryx_16bit_fantasy_world_autowall_194
+    21300390: oryx_16bit_fantasy_world_autowall_195
+    21300392: oryx_16bit_fantasy_world_autowall_196
+    21300394: oryx_16bit_fantasy_world_autowall_197
+    21300396: oryx_16bit_fantasy_world_autowall_198
+    21300398: oryx_16bit_fantasy_world_autowall_199
+    21300400: oryx_16bit_fantasy_world_autowall_200
+    21300402: oryx_16bit_fantasy_world_autowall_201
+    21300404: oryx_16bit_fantasy_world_autowall_202
+    21300406: oryx_16bit_fantasy_world_autowall_203
+    21300408: oryx_16bit_fantasy_world_autowall_204
+    21300410: oryx_16bit_fantasy_world_autowall_205
+    21300412: oryx_16bit_fantasy_world_autowall_206
+    21300414: oryx_16bit_fantasy_world_autowall_207
+    21300416: oryx_16bit_fantasy_world_autowall_208
+    21300418: oryx_16bit_fantasy_world_autowall_209
+    21300420: oryx_16bit_fantasy_world_autowall_210
+    21300422: oryx_16bit_fantasy_world_autowall_211
+    21300424: oryx_16bit_fantasy_world_autowall_212
+    21300426: oryx_16bit_fantasy_world_autowall_213
+    21300428: oryx_16bit_fantasy_world_autowall_214
+    21300430: oryx_16bit_fantasy_world_autowall_215
+    21300432: oryx_16bit_fantasy_world_autowall_216
+    21300434: oryx_16bit_fantasy_world_autowall_217
+    21300436: oryx_16bit_fantasy_world_autowall_218
+    21300438: oryx_16bit_fantasy_world_autowall_219
+    21300440: oryx_16bit_fantasy_world_autowall_220
+    21300442: oryx_16bit_fantasy_world_autowall_221
+    21300444: oryx_16bit_fantasy_world_autowall_222
+    21300446: oryx_16bit_fantasy_world_autowall_223
+    21300448: oryx_16bit_fantasy_world_autowall_224
+    21300450: oryx_16bit_fantasy_world_autowall_225
+    21300452: oryx_16bit_fantasy_world_autowall_226
+    21300454: oryx_16bit_fantasy_world_autowall_227
+    21300456: oryx_16bit_fantasy_world_autowall_228
+    21300458: oryx_16bit_fantasy_world_autowall_229
+    21300460: oryx_16bit_fantasy_world_autowall_230
+    21300462: oryx_16bit_fantasy_world_autowall_231
+    21300464: oryx_16bit_fantasy_world_autowall_232
+    21300466: oryx_16bit_fantasy_world_autowall_233
+    21300468: oryx_16bit_fantasy_world_autowall_234
+    21300470: oryx_16bit_fantasy_world_autowall_235
+    21300472: oryx_16bit_fantasy_world_autowall_236
+    21300474: oryx_16bit_fantasy_world_autowall_237
+    21300476: oryx_16bit_fantasy_world_autowall_238
+    21300478: oryx_16bit_fantasy_world_autowall_239
+    21300480: oryx_16bit_fantasy_world_autowall_240
+    21300482: oryx_16bit_fantasy_world_autowall_241
+    21300484: oryx_16bit_fantasy_world_autowall_242
+    21300486: oryx_16bit_fantasy_world_autowall_243
+    21300488: oryx_16bit_fantasy_world_autowall_244
+    21300490: oryx_16bit_fantasy_world_autowall_245
+    21300492: oryx_16bit_fantasy_world_autowall_246
+    21300494: oryx_16bit_fantasy_world_autowall_247
+    21300496: oryx_16bit_fantasy_world_autowall_248
+    21300498: oryx_16bit_fantasy_world_autowall_249
+    21300500: oryx_16bit_fantasy_world_autowall_250
+    21300502: oryx_16bit_fantasy_world_autowall_251
+    21300504: oryx_16bit_fantasy_world_autowall_252
+    21300506: oryx_16bit_fantasy_world_autowall_253
+    21300508: oryx_16bit_fantasy_world_autowall_254
+    21300510: oryx_16bit_fantasy_world_autowall_255
+    21300512: oryx_16bit_fantasy_world_autowall_256
+    21300514: oryx_16bit_fantasy_world_autowall_257
+    21300516: oryx_16bit_fantasy_world_autowall_258
+    21300518: oryx_16bit_fantasy_world_autowall_259
+    21300520: oryx_16bit_fantasy_world_autowall_260
+    21300522: oryx_16bit_fantasy_world_autowall_261
+    21300524: oryx_16bit_fantasy_world_autowall_262
+    21300526: oryx_16bit_fantasy_world_autowall_263
+    21300528: oryx_16bit_fantasy_world_autowall_264
+    21300530: oryx_16bit_fantasy_world_autowall_265
+    21300532: oryx_16bit_fantasy_world_autowall_266
+    21300534: oryx_16bit_fantasy_world_autowall_267
+    21300536: oryx_16bit_fantasy_world_autowall_268
+    21300538: oryx_16bit_fantasy_world_autowall_269
+    21300540: oryx_16bit_fantasy_world_autowall_270
+    21300542: oryx_16bit_fantasy_world_autowall_271
+    21300544: oryx_16bit_fantasy_world_autowall_272
+    21300546: oryx_16bit_fantasy_world_autowall_273
+    21300548: oryx_16bit_fantasy_world_autowall_274
+    21300550: oryx_16bit_fantasy_world_autowall_275
+    21300552: oryx_16bit_fantasy_world_autowall_276
+    21300554: oryx_16bit_fantasy_world_autowall_277
+    21300556: oryx_16bit_fantasy_world_autowall_278
+    21300558: oryx_16bit_fantasy_world_autowall_279
+    21300560: oryx_16bit_fantasy_world_autowall_280
+    21300562: oryx_16bit_fantasy_world_autowall_281
+    21300564: oryx_16bit_fantasy_world_autowall_282
+    21300566: oryx_16bit_fantasy_world_autowall_283
+    21300568: oryx_16bit_fantasy_world_autowall_284
+    21300570: oryx_16bit_fantasy_world_autowall_285
+    21300572: oryx_16bit_fantasy_world_autowall_286
+    21300574: oryx_16bit_fantasy_world_autowall_287
+    21300576: oryx_16bit_fantasy_world_autowall_288
+    21300578: oryx_16bit_fantasy_world_autowall_289
+    21300580: oryx_16bit_fantasy_world_autowall_290
+    21300582: oryx_16bit_fantasy_world_autowall_291
+    21300584: oryx_16bit_fantasy_world_autowall_292
+    21300586: oryx_16bit_fantasy_world_autowall_293
+    21300588: oryx_16bit_fantasy_world_autowall_294
+    21300590: oryx_16bit_fantasy_world_autowall_295
+    21300592: oryx_16bit_fantasy_world_autowall_296
+    21300594: oryx_16bit_fantasy_world_autowall_297
+    21300596: oryx_16bit_fantasy_world_autowall_298
+    21300598: oryx_16bit_fantasy_world_autowall_299
+    21300600: oryx_16bit_fantasy_world_autowall_300
+    21300602: oryx_16bit_fantasy_world_autowall_301
+    21300604: oryx_16bit_fantasy_world_autowall_302
+    21300606: oryx_16bit_fantasy_world_autowall_303
+    21300608: oryx_16bit_fantasy_world_autowall_304
+    21300610: oryx_16bit_fantasy_world_autowall_305
+    21300612: oryx_16bit_fantasy_world_autowall_306
+    21300614: oryx_16bit_fantasy_world_autowall_307
+    21300616: oryx_16bit_fantasy_world_autowall_308
+    21300618: oryx_16bit_fantasy_world_autowall_309
+    21300620: oryx_16bit_fantasy_world_autowall_310
+    21300622: oryx_16bit_fantasy_world_autowall_311
+    21300624: oryx_16bit_fantasy_world_autowall_312
+    21300626: oryx_16bit_fantasy_world_autowall_313
+    21300628: oryx_16bit_fantasy_world_autowall_314
+    21300630: oryx_16bit_fantasy_world_autowall_315
+    21300632: oryx_16bit_fantasy_world_autowall_316
+    21300634: oryx_16bit_fantasy_world_autowall_317
+    21300636: oryx_16bit_fantasy_world_autowall_318
+    21300638: oryx_16bit_fantasy_world_autowall_319
+    21300640: oryx_16bit_fantasy_world_autowall_320
+    21300642: oryx_16bit_fantasy_world_autowall_321
+    21300644: oryx_16bit_fantasy_world_autowall_322
+    21300646: oryx_16bit_fantasy_world_autowall_323
+    21300648: oryx_16bit_fantasy_world_autowall_324
+    21300650: oryx_16bit_fantasy_world_autowall_325
+    21300652: oryx_16bit_fantasy_world_autowall_326
+    21300654: oryx_16bit_fantasy_world_autowall_327
+    21300656: oryx_16bit_fantasy_world_autowall_328
+    21300658: oryx_16bit_fantasy_world_autowall_329
+    21300660: oryx_16bit_fantasy_world_autowall_330
+    21300662: oryx_16bit_fantasy_world_autowall_331
+    21300664: oryx_16bit_fantasy_world_autowall_332
+    21300666: oryx_16bit_fantasy_world_autowall_333
+    21300668: oryx_16bit_fantasy_world_autowall_334
+    21300670: oryx_16bit_fantasy_world_autowall_335
+    21300672: oryx_16bit_fantasy_world_autowall_336
+    21300674: oryx_16bit_fantasy_world_autowall_337
+    21300676: oryx_16bit_fantasy_world_autowall_338
+    21300678: oryx_16bit_fantasy_world_autowall_339
+    21300680: oryx_16bit_fantasy_world_autowall_340
+    21300682: oryx_16bit_fantasy_world_autowall_341
+    21300684: oryx_16bit_fantasy_world_autowall_342
+    21300686: oryx_16bit_fantasy_world_autowall_343
+    21300688: oryx_16bit_fantasy_world_autowall_344
+    21300690: oryx_16bit_fantasy_world_autowall_345
+    21300692: oryx_16bit_fantasy_world_autowall_346
+    21300694: oryx_16bit_fantasy_world_autowall_347
+    21300696: oryx_16bit_fantasy_world_autowall_348
+    21300698: oryx_16bit_fantasy_world_autowall_349
+    21300700: oryx_16bit_fantasy_world_autowall_350
+    21300702: oryx_16bit_fantasy_world_autowall_351
+    21300704: oryx_16bit_fantasy_world_autowall_352
+    21300706: oryx_16bit_fantasy_world_autowall_353
+    21300708: oryx_16bit_fantasy_world_autowall_354
+    21300710: oryx_16bit_fantasy_world_autowall_355
+    21300712: oryx_16bit_fantasy_world_autowall_356
+    21300714: oryx_16bit_fantasy_world_autowall_357
+    21300716: oryx_16bit_fantasy_world_autowall_358
+    21300718: oryx_16bit_fantasy_world_autowall_359
+    21300720: oryx_16bit_fantasy_world_autowall_360
+    21300722: oryx_16bit_fantasy_world_autowall_361
+    21300724: oryx_16bit_fantasy_world_autowall_362
+    21300726: oryx_16bit_fantasy_world_autowall_363
+    21300728: oryx_16bit_fantasy_world_autowall_364
+    21300730: oryx_16bit_fantasy_world_autowall_365
+    21300732: oryx_16bit_fantasy_world_autowall_366
+    21300734: oryx_16bit_fantasy_world_autowall_367
+    21300736: oryx_16bit_fantasy_world_autowall_368
+    21300738: oryx_16bit_fantasy_world_autowall_369
+    21300740: oryx_16bit_fantasy_world_autowall_370
+    21300742: oryx_16bit_fantasy_world_autowall_371
+    21300744: oryx_16bit_fantasy_world_autowall_372
+    21300746: oryx_16bit_fantasy_world_autowall_373
+    21300748: oryx_16bit_fantasy_world_autowall_374
+    21300750: oryx_16bit_fantasy_world_autowall_375
+    21300752: oryx_16bit_fantasy_world_autowall_376
+    21300754: oryx_16bit_fantasy_world_autowall_377
+    21300756: oryx_16bit_fantasy_world_autowall_378
+    21300758: oryx_16bit_fantasy_world_autowall_379
+    21300760: oryx_16bit_fantasy_world_autowall_380
+    21300762: oryx_16bit_fantasy_world_autowall_381
+    21300764: oryx_16bit_fantasy_world_autowall_382
+    21300766: oryx_16bit_fantasy_world_autowall_383
+    21300768: oryx_16bit_fantasy_world_autowall_384
+    21300770: oryx_16bit_fantasy_world_autowall_385
+    21300772: oryx_16bit_fantasy_world_autowall_386
+    21300774: oryx_16bit_fantasy_world_autowall_387
+    21300776: oryx_16bit_fantasy_world_autowall_388
+    21300778: oryx_16bit_fantasy_world_autowall_389
+    21300780: oryx_16bit_fantasy_world_autowall_390
+    21300782: oryx_16bit_fantasy_world_autowall_391
+    21300784: oryx_16bit_fantasy_world_autowall_392
+    21300786: oryx_16bit_fantasy_world_autowall_393
+    21300788: oryx_16bit_fantasy_world_autowall_394
+    21300790: oryx_16bit_fantasy_world_autowall_395
+    21300792: oryx_16bit_fantasy_world_autowall_396
+    21300794: oryx_16bit_fantasy_world_autowall_397
+    21300796: oryx_16bit_fantasy_world_autowall_398
+    21300798: oryx_16bit_fantasy_world_autowall_399
+    21300800: oryx_16bit_fantasy_world_autowall_400
+    21300802: oryx_16bit_fantasy_world_autowall_401
+    21300804: oryx_16bit_fantasy_world_autowall_402
+    21300806: oryx_16bit_fantasy_world_autowall_403
+    21300808: oryx_16bit_fantasy_world_autowall_404
+    21300810: oryx_16bit_fantasy_world_autowall_405
+    21300812: oryx_16bit_fantasy_world_autowall_406
+    21300814: oryx_16bit_fantasy_world_autowall_407
+    21300816: oryx_16bit_fantasy_world_autowall_408
+    21300818: oryx_16bit_fantasy_world_autowall_409
+    21300820: oryx_16bit_fantasy_world_autowall_410
+    21300822: oryx_16bit_fantasy_world_autowall_411
+    21300824: oryx_16bit_fantasy_world_autowall_412
+    21300826: oryx_16bit_fantasy_world_autowall_413
+    21300828: fantasy_world_autowall_0
+    21300830: fantasy_world_autowall_1
+    21300832: fantasy_world_autowall_2
+    21300834: fantasy_world_autowall_3
+    21300836: fantasy_world_autowall_4
+    21300838: fantasy_world_autowall_5
+    21300840: fantasy_world_autowall_6
+    21300842: fantasy_world_autowall_7
+    21300844: fantasy_world_autowall_8
+    21300846: fantasy_world_autowall_9
+    21300848: fantasy_world_autowall_10
+    21300850: fantasy_world_autowall_11
+    21300852: fantasy_world_autowall_12
+    21300854: fantasy_world_autowall_13
+    21300856: fantasy_world_autowall_14
+    21300858: fantasy_world_autowall_15
+    21300860: fantasy_world_autowall_16
+    21300862: fantasy_world_autowall_17
+    21300864: fantasy_world_autowall_18
+    21300866: fantasy_world_autowall_19
+    21300868: fantasy_world_autowall_20
+    21300870: fantasy_world_autowall_21
+    21300872: fantasy_world_autowall_22
+    21300874: fantasy_world_autowall_23
+    21300876: fantasy_world_autowall_24
+    21300878: fantasy_world_autowall_25
+    21300880: fantasy_world_autowall_26
+    21300882: fantasy_world_autowall_27
+    21300884: fantasy_world_autowall_28
+    21300886: fantasy_world_autowall_29
+    21300888: fantasy_world_autowall_30
+    21300890: fantasy_world_autowall_31
+    21300892: fantasy_world_autowall_32
+    21300894: fantasy_world_autowall_33
+    21300896: fantasy_world_autowall_34
+    21300898: fantasy_world_autowall_35
+    21300900: fantasy_world_autowall_36
+    21300902: fantasy_world_autowall_37
+    21300904: fantasy_world_autowall_38
+    21300906: fantasy_world_autowall_39
+    21300908: fantasy_world_autowall_40
+    21300910: fantasy_world_autowall_41
+    21300912: fantasy_world_autowall_42
+    21300914: fantasy_world_autowall_43
+    21300916: fantasy_world_autowall_44
+    21300918: fantasy_world_autowall_45
+    21300920: fantasy_world_autowall_46
+    21300922: fantasy_world_autowall_47
+    21300924: fantasy_world_autowall_48
+    21300926: fantasy_world_autowall_49
+    21300928: fantasy_world_autowall_50
+    21300930: fantasy_world_autowall_51
+    21300932: fantasy_world_autowall_52
+    21300934: fantasy_world_autowall_53
+    21300936: fantasy_world_autowall_54
+    21300938: fantasy_world_autowall_55
+    21300940: fantasy_world_autowall_56
+    21300942: fantasy_world_autowall_57
+    21300944: fantasy_world_autowall_58
+    21300946: fantasy_world_autowall_59
+    21300948: fantasy_world_autowall_60
+    21300950: fantasy_world_autowall_61
+    21300952: fantasy_world_autowall_62
+    21300954: fantasy_world_autowall_63
+    21300956: fantasy_world_autowall_64
+    21300958: fantasy_world_autowall_65
+    21300960: fantasy_world_autowall_66
+    21300962: fantasy_world_autowall_67
+    21300964: fantasy_world_autowall_68
+    21300966: fantasy_world_autowall_69
+    21300968: fantasy_world_autowall_70
+    21300970: fantasy_world_autowall_71
+    21300972: fantasy_world_autowall_72
+    21300974: fantasy_world_autowall_73
+    21300976: fantasy_world_autowall_74
+    21300978: fantasy_world_autowall_75
+    21300980: fantasy_world_autowall_76
+    21300982: fantasy_world_autowall_77
+    21300984: fantasy_world_autowall_78
+    21300986: fantasy_world_autowall_79
+    21300988: fantasy_world_autowall_80
+    21300990: fantasy_world_autowall_81
+    21300992: fantasy_world_autowall_82
+    21300994: fantasy_world_autowall_83
+    21300996: fantasy_world_autowall_84
+    21300998: fantasy_world_autowall_85
+    21301000: fantasy_world_autowall_86
+    21301002: fantasy_world_autowall_87
+    21301004: fantasy_world_autowall_88
+    21301006: fantasy_world_autowall_89
+    21301008: fantasy_world_autowall_90
+    21301010: fantasy_world_autowall_91
+    21301012: fantasy_world_autowall_92
+    21301014: fantasy_world_autowall_93
+    21301016: fantasy_world_autowall_94
+    21301018: fantasy_world_autowall_95
+    21301020: fantasy_world_autowall_96
+    21301022: fantasy_world_autowall_97
+    21301024: fantasy_world_autowall_98
+    21301026: fantasy_world_autowall_99
+    21301028: fantasy_world_autowall_100
+    21301030: fantasy_world_autowall_101
+    21301032: fantasy_world_autowall_102
+    21301034: fantasy_world_autowall_103
+    21301036: fantasy_world_autowall_104
+    21301038: fantasy_world_autowall_105
+    21301040: fantasy_world_autowall_106
+    21301042: fantasy_world_autowall_107
+    21301044: fantasy_world_autowall_108
+    21301046: fantasy_world_autowall_109
+    21301048: fantasy_world_autowall_110
+    21301050: fantasy_world_autowall_111
+    21301052: fantasy_world_autowall_112
+    21301054: fantasy_world_autowall_113
+    21301056: fantasy_world_autowall_114
+    21301058: fantasy_world_autowall_115
+    21301060: fantasy_world_autowall_116
+    21301062: fantasy_world_autowall_117
+    21301064: fantasy_world_autowall_118
+    21301066: fantasy_world_autowall_119
+    21301068: fantasy_world_autowall_120
+    21301070: fantasy_world_autowall_121
+    21301072: fantasy_world_autowall_122
+    21301074: fantasy_world_autowall_123
+    21301076: fantasy_world_autowall_124
+    21301078: fantasy_world_autowall_125
+    21301080: fantasy_world_autowall_126
+    21301082: fantasy_world_autowall_127
+    21301084: fantasy_world_autowall_128
+    21301086: fantasy_world_autowall_129
+    21301088: fantasy_world_autowall_130
+    21301090: fantasy_world_autowall_131
+    21301092: fantasy_world_autowall_132
+    21301094: fantasy_world_autowall_133
+    21301096: fantasy_world_autowall_134
+    21301098: fantasy_world_autowall_135
+    21301100: fantasy_world_autowall_136
+    21301102: fantasy_world_autowall_137
+    21301104: fantasy_world_autowall_138
+    21301106: fantasy_world_autowall_139
+    21301108: fantasy_world_autowall_140
+    21301110: fantasy_world_autowall_141
+    21301112: fantasy_world_autowall_142
+    21301114: fantasy_world_autowall_143
+    21301116: fantasy_world_autowall_144
+    21301118: fantasy_world_autowall_145
+    21301120: fantasy_world_autowall_146
+    21301122: fantasy_world_autowall_147
+    21301124: fantasy_world_autowall_148
+    21301126: fantasy_world_autowall_149
+    21301128: fantasy_world_autowall_150
+    21301130: fantasy_world_autowall_151
+    21301132: fantasy_world_autowall_152
+    21301134: fantasy_world_autowall_153
+    21301136: fantasy_world_autowall_154
+    21301138: fantasy_world_autowall_155
+    21301140: fantasy_world_autowall_156
+    21301142: fantasy_world_autowall_157
+    21301144: fantasy_world_autowall_158
+    21301146: fantasy_world_autowall_159
+    21301148: fantasy_world_autowall_160
+    21301150: fantasy_world_autowall_161
+    21301152: fantasy_world_autowall_162
+    21301154: fantasy_world_autowall_163
+    21301156: fantasy_world_autowall_164
+    21301158: fantasy_world_autowall_165
+    21301160: fantasy_world_autowall_166
+    21301162: fantasy_world_autowall_167
+    21301164: fantasy_world_autowall_168
+    21301166: fantasy_world_autowall_169
+    21301168: fantasy_world_autowall_170
+    21301170: fantasy_world_autowall_171
+    21301172: fantasy_world_autowall_172
+    21301174: fantasy_world_autowall_173
+    21301176: fantasy_world_autowall_174
+    21301178: fantasy_world_autowall_175
+    21301180: fantasy_world_autowall_176
+    21301182: fantasy_world_autowall_177
+    21301184: fantasy_world_autowall_178
+    21301186: fantasy_world_autowall_179
+    21301188: fantasy_world_autowall_180
+    21301190: fantasy_world_autowall_181
+    21301192: fantasy_world_autowall_182
+    21301194: fantasy_world_autowall_183
+    21301196: fantasy_world_autowall_184
+    21301198: fantasy_world_autowall_185
+    21301200: fantasy_world_autowall_186
+    21301202: fantasy_world_autowall_187
+    21301204: fantasy_world_autowall_188
+    21301206: fantasy_world_autowall_189
+    21301208: fantasy_world_autowall_190
+    21301210: fantasy_world_autowall_191
+    21301212: fantasy_world_autowall_192
+    21301214: fantasy_world_autowall_193
+    21301216: fantasy_world_autowall_194
+    21301218: fantasy_world_autowall_195
+    21301220: fantasy_world_autowall_196
+    21301222: fantasy_world_autowall_197
+    21301224: fantasy_world_autowall_198
+    21301226: fantasy_world_autowall_199
+    21301228: fantasy_world_autowall_200
+    21301230: fantasy_world_autowall_201
+    21301232: fantasy_world_autowall_202
+    21301234: fantasy_world_autowall_203
+    21301236: fantasy_world_autowall_204
+    21301238: fantasy_world_autowall_205
+    21301240: fantasy_world_autowall_206
+    21301242: fantasy_world_autowall_207
+    21301244: fantasy_world_autowall_208
+    21301246: fantasy_world_autowall_209
+    21301248: fantasy_world_autowall_210
+    21301250: fantasy_world_autowall_211
+    21301252: fantasy_world_autowall_212
+    21301254: fantasy_world_autowall_213
+    21301256: fantasy_world_autowall_214
+    21301258: fantasy_world_autowall_215
+    21301260: fantasy_world_autowall_216
+    21301262: fantasy_world_autowall_217
+    21301264: fantasy_world_autowall_218
+    21301266: fantasy_world_autowall_219
+    21301268: fantasy_world_autowall_220
+    21301270: fantasy_world_autowall_221
+    21301272: fantasy_world_autowall_222
+    21301274: fantasy_world_autowall_223
+    21301276: fantasy_world_autowall_224
+    21301278: fantasy_world_autowall_225
+    21301280: fantasy_world_autowall_226
+    21301282: fantasy_world_autowall_227
+    21301284: fantasy_world_autowall_228
+    21301286: fantasy_world_autowall_229
+    21301288: fantasy_world_autowall_230
+    21301290: fantasy_world_autowall_231
+    21301292: fantasy_world_autowall_232
+    21301294: fantasy_world_autowall_233
+    21301296: fantasy_world_autowall_234
+    21301298: fantasy_world_autowall_235
+    21301300: fantasy_world_autowall_236
+    21301302: fantasy_world_autowall_237
+    21301304: fantasy_world_autowall_238
+    21301306: fantasy_world_autowall_239
+    21301308: fantasy_world_autowall_240
+    21301310: fantasy_world_autowall_241
+    21301312: fantasy_world_autowall_242
+    21301314: fantasy_world_autowall_243
+    21301316: fantasy_world_autowall_244
+    21301318: fantasy_world_autowall_245
+    21301320: fantasy_world_autowall_246
+    21301322: fantasy_world_autowall_247
+    21301324: fantasy_world_autowall_248
+    21301326: fantasy_world_autowall_249
+    21301328: fantasy_world_autowall_250
+    21301330: fantasy_world_autowall_251
+    21301332: fantasy_world_autowall_252
+    21301334: fantasy_world_autowall_253
+    21301336: fantasy_world_autowall_254
+    21301338: fantasy_world_autowall_255
+    21301340: fantasy_world_autowall_256
+    21301342: fantasy_world_autowall_257
+    21301344: fantasy_world_autowall_258
+    21301346: fantasy_world_autowall_259
+    21301348: fantasy_world_autowall_260
+    21301350: fantasy_world_autowall_261
+    21301352: fantasy_world_autowall_262
+    21301354: fantasy_world_autowall_263
+    21301356: fantasy_world_autowall_264
+    21301358: fantasy_world_autowall_265
+    21301360: fantasy_world_autowall_266
+    21301362: fantasy_world_autowall_267
+    21301364: fantasy_world_autowall_268
+    21301366: fantasy_world_autowall_269
+    21301368: fantasy_world_autowall_270
+    21301370: fantasy_world_autowall_271
+    21301372: fantasy_world_autowall_272
+    21301374: fantasy_world_autowall_273
+    21301376: fantasy_world_autowall_274
+    21301378: fantasy_world_autowall_275
+    21301380: fantasy_world_autowall_276
+    21301382: fantasy_world_autowall_277
+    21301384: fantasy_world_autowall_278
+    21301386: fantasy_world_autowall_279
+    21301388: fantasy_world_autowall_280
+    21301390: fantasy_world_autowall_281
+    21301392: fantasy_world_autowall_282
+    21301394: fantasy_world_autowall_283
+    21301396: fantasy_world_autowall_284
+    21301398: fantasy_world_autowall_285
+    21301400: fantasy_world_autowall_286
+    21301402: fantasy_world_autowall_287
+    21301404: fantasy_world_autowall_288
+    21301406: fantasy_world_autowall_289
+    21301408: fantasy_world_autowall_290
+    21301410: fantasy_world_autowall_291
+    21301412: fantasy_world_autowall_292
+    21301414: fantasy_world_autowall_293
+    21301416: fantasy_world_autowall_294
+    21301418: fantasy_world_autowall_295
+    21301420: fantasy_world_autowall_296
+    21301422: fantasy_world_autowall_297
+    21301424: fantasy_world_autowall_298
+    21301426: fantasy_world_autowall_299
+    21301428: fantasy_world_autowall_300
+    21301430: fantasy_world_autowall_301
+    21301432: fantasy_world_autowall_302
+    21301434: fantasy_world_autowall_303
+    21301436: fantasy_world_autowall_304
+    21301438: fantasy_world_autowall_305
+    21301440: fantasy_world_autowall_306
+    21301442: fantasy_world_autowall_307
+    21301444: fantasy_world_autowall_308
+    21301446: fantasy_world_autowall_309
+    21301448: fantasy_world_autowall_310
+    21301450: fantasy_world_autowall_311
+    21301452: fantasy_world_autowall_312
+    21301454: fantasy_world_autowall_313
+    21301456: fantasy_world_autowall_314
+    21301458: fantasy_world_autowall_315
+    21301460: fantasy_world_autowall_316
+    21301462: fantasy_world_autowall_317
+    21301464: fantasy_world_autowall_318
+    21301466: fantasy_world_autowall_319
+    21301468: fantasy_world_autowall_320
+    21301470: fantasy_world_autowall_321
+    21301472: fantasy_world_autowall_322
+    21301474: fantasy_world_autowall_323
+    21301476: fantasy_world_autowall_324
+    21301478: fantasy_world_autowall_325
+    21301480: fantasy_world_autowall_326
+    21301482: fantasy_world_autowall_327
+    21301484: fantasy_world_autowall_328
+    21301486: fantasy_world_autowall_329
+    21301488: fantasy_world_autowall_330
+    21301490: fantasy_world_autowall_331
+    21301492: fantasy_world_autowall_332
+    21301494: fantasy_world_autowall_333
+    21301496: fantasy_world_autowall_334
+    21301498: fantasy_world_autowall_335
+    21301500: fantasy_world_autowall_336
+    21301502: fantasy_world_autowall_337
+    21301504: fantasy_world_autowall_338
+    21301506: fantasy_world_autowall_339
+    21301508: fantasy_world_autowall_340
+    21301510: fantasy_world_autowall_341
+    21301512: fantasy_world_autowall_342
+    21301514: fantasy_world_autowall_343
+    21301516: fantasy_world_autowall_344
+    21301518: fantasy_world_autowall_345
+    21301520: fantasy_world_autowall_346
+    21301522: fantasy_world_autowall_347
+    21301524: fantasy_world_autowall_348
+    21301526: fantasy_world_autowall_349
+    21301528: fantasy_world_autowall_350
+    21301530: fantasy_world_autowall_351
+    21301532: fantasy_world_autowall_352
+    21301534: fantasy_world_autowall_353
+    21301536: fantasy_world_autowall_354
+    21301538: fantasy_world_autowall_355
+    21301540: fantasy_world_autowall_356
+    21301542: fantasy_world_autowall_357
+    21301544: fantasy_world_autowall_358
+    21301546: fantasy_world_autowall_359
+    21301548: fantasy_world_autowall_360
+    21301550: fantasy_world_autowall_361
+    21301552: fantasy_world_autowall_362
+    21301554: fantasy_world_autowall_363
+    21301556: fantasy_world_autowall_364
+    21301558: fantasy_world_autowall_365
+    21301560: fantasy_world_autowall_366
+    21301562: fantasy_world_autowall_367
+    21301564: fantasy_world_autowall_368
+    21301566: fantasy_world_autowall_369
+    21301568: fantasy_world_autowall_370
+    21301570: fantasy_world_autowall_371
+    21301572: fantasy_world_autowall_372
+    21301574: fantasy_world_autowall_373
+    21301576: fantasy_world_autowall_374
+    21301578: fantasy_world_autowall_375
+    21301580: fantasy_world_autowall_376
+    21301582: fantasy_world_autowall_377
+    21301584: fantasy_world_autowall_378
+    21301586: fantasy_world_autowall_379
+    21301588: fantasy_world_autowall_380
+    21301590: fantasy_world_autowall_381
+    21301592: fantasy_world_autowall_382
+    21301594: fantasy_world_autowall_383
+    21301596: fantasy_world_autowall_384
+    21301598: fantasy_world_autowall_385
+    21301600: fantasy_world_autowall_386
+    21301602: fantasy_world_autowall_387
+    21301604: fantasy_world_autowall_388
+    21301606: fantasy_world_autowall_389
+    21301608: fantasy_world_autowall_390
+    21301610: fantasy_world_autowall_391
+    21301612: fantasy_world_autowall_392
+    21301614: fantasy_world_autowall_393
+    21301616: fantasy_world_autowall_394
+    21301618: fantasy_world_autowall_395
+    21301620: fantasy_world_autowall_396
+    21301622: fantasy_world_autowall_397
+    21301624: fantasy_world_autowall_398
+    21301626: fantasy_world_autowall_399
+    21301628: fantasy_world_autowall_400
+    21301630: fantasy_world_autowall_401
+    21301632: fantasy_world_autowall_402
+    21301634: fantasy_world_autowall_403
+    21301636: fantasy_world_autowall_404
+    21301638: fantasy_world_autowall_405
+    21301640: fantasy_world_autowall_406
+    21301642: fantasy_world_autowall_407
+    21301644: fantasy_world_autowall_408
+    21301646: fantasy_world_autowall_409
+    21301648: fantasy_world_autowall_410
+    21301650: fantasy_world_autowall_411
+    21301652: fantasy_world_autowall_412
+    21301654: fantasy_world_autowall_413
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 24
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fantasy_world_autowall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_31
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_61
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_65
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_89
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_101
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_107
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_121
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_122
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_125
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_129
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_133
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_135
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_137
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_139
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_140
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_141
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_143
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_145
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_153
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_157
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_158
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_160
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_161
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_163
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_164
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_165
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_167
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_169
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_171
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_173
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_175
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_176
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_178
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_179
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_181
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_183
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_185
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_186
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_187
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_189
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_190
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_191
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_192
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_193
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_194
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_195
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_196
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_197
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_199
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_200
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_203
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_204
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_205
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_207
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_208
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_209
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_210
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_211
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_212
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_213
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_215
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_217
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_218
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_219
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_221
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_222
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_223
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_224
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_225
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_226
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_227
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_228
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_229
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_230
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_231
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_233
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_235
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_236
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_237
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_238
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_239
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_240
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_241
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_242
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_243
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_244
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_245
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_247
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_248
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_249
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_250
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_251
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_253
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_254
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_255
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_256
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_257
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_258
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_259
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_260
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_261
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_263
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_264
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_265
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_266
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_267
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_268
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_269
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_271
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_272
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_273
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_274
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_275
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_276
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_277
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_279
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_280
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_281
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_282
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_283
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_284
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_285
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_286
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_287
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_289
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_290
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_291
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_292
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_293
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_294
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_295
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_296
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_297
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_298
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_299
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_300
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_301
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_302
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_303
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_304
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_305
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_306
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_307
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_308
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_309
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_310
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_311
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_312
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_313
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_314
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_315
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_316
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_317
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_318
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_319
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_320
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_321
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_322
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_323
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_324
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_325
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_326
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_327
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_328
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_329
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_330
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_331
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_332
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_333
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_334
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_335
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_336
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_337
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_338
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_339
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_340
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_341
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_342
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_343
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_344
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_345
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_346
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_347
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_348
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_349
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_350
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_351
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_352
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_353
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_354
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_355
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_356
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_357
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_358
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_359
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_360
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_361
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_362
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_363
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_364
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_365
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_366
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_367
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_368
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_369
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_370
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_371
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_372
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_373
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_374
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_375
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_376
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_377
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_378
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_379
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_380
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_381
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_382
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_383
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_384
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_385
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_386
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_387
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_388
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_389
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_390
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_391
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_392
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_393
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_394
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_395
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_396
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_397
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_398
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_399
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_400
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_401
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_402
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_403
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_404
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_405
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_406
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_407
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_408
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_409
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_410
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_411
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_412
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_autowall_413
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: map
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

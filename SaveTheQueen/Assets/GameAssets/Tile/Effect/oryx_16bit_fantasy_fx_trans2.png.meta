@@ -1,0 +1,2036 @@
+fileFormatVersion: 2
+guid: 2f27cf7b0355cca46b69fe7c77432700
+timeCreated: 1450328927
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oryx_16bit_fantasy_fx_trans2_0
+    21300002: oryx_16bit_fantasy_fx_trans2_1
+    21300004: oryx_16bit_fantasy_fx_trans2_2
+    21300006: oryx_16bit_fantasy_fx_trans2_3
+    21300008: oryx_16bit_fantasy_fx_trans2_4
+    21300010: oryx_16bit_fantasy_fx_trans2_5
+    21300012: oryx_16bit_fantasy_fx_trans2_6
+    21300014: oryx_16bit_fantasy_fx_trans2_7
+    21300016: oryx_16bit_fantasy_fx_trans2_8
+    21300018: oryx_16bit_fantasy_fx_trans2_9
+    21300020: oryx_16bit_fantasy_fx_trans2_10
+    21300022: oryx_16bit_fantasy_fx_trans2_11
+    21300024: oryx_16bit_fantasy_fx_trans2_12
+    21300026: oryx_16bit_fantasy_fx_trans2_13
+    21300028: oryx_16bit_fantasy_fx_trans2_14
+    21300030: oryx_16bit_fantasy_fx_trans2_15
+    21300032: oryx_16bit_fantasy_fx_trans2_16
+    21300034: oryx_16bit_fantasy_fx_trans2_17
+    21300036: oryx_16bit_fantasy_fx_trans2_18
+    21300038: oryx_16bit_fantasy_fx_trans2_19
+    21300040: oryx_16bit_fantasy_fx_trans2_20
+    21300042: oryx_16bit_fantasy_fx_trans2_21
+    21300044: oryx_16bit_fantasy_fx_trans2_22
+    21300046: oryx_16bit_fantasy_fx_trans2_23
+    21300048: oryx_16bit_fantasy_fx_trans2_24
+    21300050: oryx_16bit_fantasy_fx_trans2_25
+    21300052: oryx_16bit_fantasy_fx_trans2_26
+    21300054: oryx_16bit_fantasy_fx_trans2_27
+    21300056: oryx_16bit_fantasy_fx_trans2_28
+    21300058: oryx_16bit_fantasy_fx_trans2_29
+    21300060: oryx_16bit_fantasy_fx_trans2_30
+    21300062: oryx_16bit_fantasy_fx_trans2_31
+    21300064: oryx_16bit_fantasy_fx_trans2_32
+    21300066: oryx_16bit_fantasy_fx_trans2_33
+    21300068: oryx_16bit_fantasy_fx_trans2_34
+    21300070: oryx_16bit_fantasy_fx_trans2_35
+    21300072: oryx_16bit_fantasy_fx_trans2_36
+    21300074: oryx_16bit_fantasy_fx_trans2_37
+    21300076: oryx_16bit_fantasy_fx_trans2_38
+    21300078: oryx_16bit_fantasy_fx_trans2_39
+    21300080: oryx_16bit_fantasy_fx_trans2_40
+    21300082: oryx_16bit_fantasy_fx_trans2_41
+    21300084: oryx_16bit_fantasy_fx_trans2_42
+    21300086: oryx_16bit_fantasy_fx_trans2_43
+    21300088: oryx_16bit_fantasy_fx_trans2_44
+    21300090: oryx_16bit_fantasy_fx_trans2_45
+    21300092: oryx_16bit_fantasy_fx_trans2_46
+    21300094: oryx_16bit_fantasy_fx_trans2_47
+    21300096: oryx_16bit_fantasy_fx_trans2_48
+    21300098: oryx_16bit_fantasy_fx_trans2_49
+    21300100: oryx_16bit_fantasy_fx_trans2_50
+    21300102: oryx_16bit_fantasy_fx_trans2_51
+    21300104: oryx_16bit_fantasy_fx_trans2_52
+    21300106: oryx_16bit_fantasy_fx_trans2_53
+    21300108: oryx_16bit_fantasy_fx_trans2_54
+    21300110: oryx_16bit_fantasy_fx_trans2_55
+    21300112: oryx_16bit_fantasy_fx_trans2_56
+    21300114: oryx_16bit_fantasy_fx_trans2_57
+    21300116: oryx_16bit_fantasy_fx_trans2_58
+    21300118: oryx_16bit_fantasy_fx_trans2_59
+    21300120: oryx_16bit_fantasy_fx_trans2_60
+    21300122: oryx_16bit_fantasy_fx_trans2_61
+    21300124: oryx_16bit_fantasy_fx_trans2_62
+    21300126: oryx_16bit_fantasy_fx_trans2_63
+    21300128: oryx_16bit_fantasy_fx_trans2_64
+    21300130: oryx_16bit_fantasy_fx_trans2_65
+    21300132: oryx_16bit_fantasy_fx_trans2_66
+    21300134: oryx_16bit_fantasy_fx_trans2_67
+    21300136: oryx_16bit_fantasy_fx_trans2_68
+    21300138: oryx_16bit_fantasy_fx_trans2_69
+    21300140: oryx_16bit_fantasy_fx_trans2_70
+    21300142: oryx_16bit_fantasy_fx_trans2_71
+    21300144: oryx_16bit_fantasy_fx_trans2_72
+    21300146: oryx_16bit_fantasy_fx_trans2_73
+    21300148: oryx_16bit_fantasy_fx_trans2_74
+    21300150: oryx_16bit_fantasy_fx_trans2_75
+    21300152: oryx_16bit_fantasy_fx_trans2_76
+    21300154: oryx_16bit_fantasy_fx_trans2_77
+    21300156: oryx_16bit_fantasy_fx_trans2_78
+    21300158: oryx_16bit_fantasy_fx_trans2_79
+    21300160: oryx_16bit_fantasy_fx_trans2_80
+    21300162: oryx_16bit_fantasy_fx_trans2_81
+    21300164: oryx_16bit_fantasy_fx_trans2_82
+    21300166: oryx_16bit_fantasy_fx_trans2_83
+    21300168: oryx_16bit_fantasy_fx_trans2_84
+    21300170: oryx_16bit_fantasy_fx_trans2_85
+    21300172: oryx_16bit_fantasy_fx_trans2_86
+    21300174: oryx_16bit_fantasy_fx_trans2_87
+    21300176: oryx_16bit_fantasy_fx_trans2_88
+    21300178: oryx_16bit_fantasy_fx_trans2_89
+    21300180: oryx_16bit_fantasy_fx_trans2_90
+    21300182: oryx_16bit_fantasy_fx_trans2_91
+    21300184: oryx_16bit_fantasy_fx_trans2_92
+    21300186: oryx_16bit_fantasy_fx_trans2_93
+    21300188: oryx_16bit_fantasy_fx_trans2_94
+    21300190: oryx_16bit_fantasy_fx_trans2_95
+    21300192: oryx_16bit_fantasy_fx_trans2_96
+    21300194: oryx_16bit_fantasy_fx_trans2_97
+    21300196: oryx_16bit_fantasy_fx_trans2_98
+    21300198: oryx_16bit_fantasy_fx_trans2_99
+    21300200: oryx_16bit_fantasy_fx_trans2_100
+    21300202: oryx_16bit_fantasy_fx_trans2_101
+    21300204: oryx_16bit_fantasy_fx_trans2_102
+    21300206: oryx_16bit_fantasy_fx_trans2_103
+    21300208: oryx_16bit_fantasy_fx_trans2_104
+    21300210: oryx_16bit_fantasy_fx_trans2_105
+    21300212: oryx_16bit_fantasy_fx_trans2_106
+    21300214: oryx_16bit_fantasy_fx_trans2_107
+    21300216: oryx_16bit_fantasy_fx_trans2_108
+    21300218: oryx_16bit_fantasy_fx_trans2_109
+    21300220: oryx_16bit_fantasy_fx_trans2_110
+    21300222: oryx_16bit_fantasy_fx_trans2_111
+    21300224: oryx_16bit_fantasy_fx_trans2_112
+    21300226: oryx_16bit_fantasy_fx_trans2_113
+    21300228: oryx_16bit_fantasy_fx_trans2_114
+    21300230: oryx_16bit_fantasy_fx_trans2_115
+    21300232: oryx_16bit_fantasy_fx_trans2_116
+    21300234: oryx_16bit_fantasy_fx_trans2_117
+    21300236: oryx_16bit_fantasy_fx_trans2_118
+    21300238: oryx_16bit_fantasy_fx_trans2_119
+    21300240: oryx_16bit_fantasy_fx_trans2_120
+    21300242: oryx_16bit_fantasy_fx_trans2_121
+    21300244: oryx_16bit_fantasy_fx_trans2_122
+    21300246: oryx_16bit_fantasy_fx_trans2_123
+    21300248: oryx_16bit_fantasy_fx_trans2_124
+    21300250: oryx_16bit_fantasy_fx_trans2_125
+    21300252: oryx_16bit_fantasy_fx_trans2_126
+    21300254: oryx_16bit_fantasy_fx_trans2_127
+    21300256: oryx_16bit_fantasy_fx_trans2_128
+    21300258: oryx_16bit_fantasy_fx_trans2_129
+    21300260: oryx_16bit_fantasy_fx_trans2_130
+    21300262: oryx_16bit_fantasy_fx_trans2_131
+    21300264: oryx_16bit_fantasy_fx_trans2_132
+    21300266: oryx_16bit_fantasy_fx_trans2_133
+    21300268: oryx_16bit_fantasy_fx_trans2_134
+    21300270: oryx_16bit_fantasy_fx_trans2_135
+    21300272: oryx_16bit_fantasy_fx_trans2_136
+    21300274: oryx_16bit_fantasy_fx_trans2_137
+    21300276: oryx_16bit_fantasy_fx_trans2_138
+    21300278: oryx_16bit_fantasy_fx_trans2_139
+    21300280: oryx_16bit_fantasy_fx_trans2_140
+    21300282: oryx_16bit_fantasy_fx_trans2_141
+    21300284: oryx_16bit_fantasy_fx_trans2_142
+    21300286: oryx_16bit_fantasy_fx_trans2_143
+    21300288: oryx_16bit_fantasy_fx_trans2_144
+    21300290: oryx_16bit_fantasy_fx_trans2_145
+    21300292: oryx_16bit_fantasy_fx_trans2_146
+    21300294: oryx_16bit_fantasy_fx_trans2_147
+    21300296: oryx_16bit_fantasy_fx_trans2_148
+    21300298: oryx_16bit_fantasy_fx_trans2_149
+    21300300: oryx_16bit_fantasy_fx_trans2_150
+    21300302: oryx_16bit_fantasy_fx_trans2_151
+    21300304: oryx_16bit_fantasy_fx_trans2_152
+    21300306: oryx_16bit_fantasy_fx_trans2_153
+    21300308: oryx_16bit_fantasy_fx_trans2_154
+    21300310: oryx_16bit_fantasy_fx_trans2_155
+    21300312: oryx_16bit_fantasy_fx_trans2_156
+    21300314: oryx_16bit_fantasy_fx_trans2_157
+    21300316: oryx_16bit_fantasy_fx_trans2_158
+    21300318: oryx_16bit_fantasy_fx_trans2_159
+    21300320: oryx_16bit_fantasy_fx_trans2_160
+    21300322: oryx_16bit_fantasy_fx_trans2_161
+    21300324: oryx_16bit_fantasy_fx_trans2_162
+    21300326: oryx_16bit_fantasy_fx_trans2_163
+    21300328: oryx_16bit_fantasy_fx_trans2_164
+    21300330: oryx_16bit_fantasy_fx_trans2_165
+    21300332: oryx_16bit_fantasy_fx_trans2_166
+    21300334: oryx_16bit_fantasy_fx_trans2_167
+    21300336: oryx_16bit_fantasy_fx_trans2_168
+    21300338: oryx_16bit_fantasy_fx_trans2_169
+    21300340: oryx_16bit_fantasy_fx_trans2_170
+    21300342: oryx_16bit_fantasy_fx_trans2_171
+    21300344: oryx_16bit_fantasy_fx_trans2_172
+    21300346: oryx_16bit_fantasy_fx_trans2_173
+    21300348: oryx_16bit_fantasy_fx_trans2_174
+    21300350: oryx_16bit_fantasy_fx_trans2_175
+    21300352: oryx_16bit_fantasy_fx_trans2_176
+    21300354: oryx_16bit_fantasy_fx_trans2_177
+    21300356: oryx_16bit_fantasy_fx_trans2_178
+    21300358: oryx_16bit_fantasy_fx_trans2_179
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 24
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oryx_16bit_fantasy_fx_trans2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_84
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_110
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_116
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_122
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_124
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_128
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_132
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_136
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_138
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_140
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_142
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_144
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_146
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_148
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_150
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_152
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_154
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_156
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_158
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_160
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_164
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_166
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_168
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_171
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_173
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_176
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_177
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oryx_16bit_fantasy_fx_trans2_179
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

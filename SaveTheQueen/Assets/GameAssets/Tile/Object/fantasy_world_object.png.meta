@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: 32856f0b24e66c948ac5682bd96cb2a3
+timeCreated: 1450404582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oryx_16bit_fantasy_world_object_0
+    21300002: oryx_16bit_fantasy_world_object_1
+    21300004: oryx_16bit_fantasy_world_object_2
+    21300006: oryx_16bit_fantasy_world_object_3
+    21300008: oryx_16bit_fantasy_world_object_4
+    21300010: oryx_16bit_fantasy_world_object_5
+    21300012: oryx_16bit_fantasy_world_object_6
+    21300014: oryx_16bit_fantasy_world_object_7
+    21300016: oryx_16bit_fantasy_world_object_8
+    21300018: oryx_16bit_fantasy_world_object_9
+    21300020: oryx_16bit_fantasy_world_object_10
+    21300022: oryx_16bit_fantasy_world_object_11
+    21300024: oryx_16bit_fantasy_world_object_12
+    21300026: oryx_16bit_fantasy_world_object_13
+    21300028: oryx_16bit_fantasy_world_object_14
+    21300030: oryx_16bit_fantasy_world_object_15
+    21300032: oryx_16bit_fantasy_world_object_16
+    21300034: oryx_16bit_fantasy_world_object_17
+    21300036: oryx_16bit_fantasy_world_object_18
+    21300038: oryx_16bit_fantasy_world_object_19
+    21300040: oryx_16bit_fantasy_world_object_20
+    21300042: oryx_16bit_fantasy_world_object_21
+    21300044: oryx_16bit_fantasy_world_object_22
+    21300046: oryx_16bit_fantasy_world_object_23
+    21300048: oryx_16bit_fantasy_world_object_24
+    21300050: oryx_16bit_fantasy_world_object_25
+    21300052: oryx_16bit_fantasy_world_object_26
+    21300054: oryx_16bit_fantasy_world_object_27
+    21300056: oryx_16bit_fantasy_world_object_28
+    21300058: oryx_16bit_fantasy_world_object_29
+    21300060: oryx_16bit_fantasy_world_object_30
+    21300062: oryx_16bit_fantasy_world_object_31
+    21300064: oryx_16bit_fantasy_world_object_32
+    21300066: oryx_16bit_fantasy_world_object_33
+    21300068: oryx_16bit_fantasy_world_object_34
+    21300070: oryx_16bit_fantasy_world_object_35
+    21300072: oryx_16bit_fantasy_world_object_36
+    21300074: oryx_16bit_fantasy_world_object_37
+    21300076: oryx_16bit_fantasy_world_object_38
+    21300078: oryx_16bit_fantasy_world_object_39
+    21300080: oryx_16bit_fantasy_world_object_40
+    21300082: oryx_16bit_fantasy_world_object_41
+    21300084: oryx_16bit_fantasy_world_object_42
+    21300086: oryx_16bit_fantasy_world_object_43
+    21300088: oryx_16bit_fantasy_world_object_44
+    21300090: oryx_16bit_fantasy_world_object_45
+    21300092: oryx_16bit_fantasy_world_object_46
+    21300094: oryx_16bit_fantasy_world_object_47
+    21300096: oryx_16bit_fantasy_world_object_48
+    21300098: oryx_16bit_fantasy_world_object_49
+    21300100: oryx_16bit_fantasy_world_object_50
+    21300102: oryx_16bit_fantasy_world_object_51
+    21300104: oryx_16bit_fantasy_world_object_52
+    21300106: oryx_16bit_fantasy_world_object_53
+    21300108: oryx_16bit_fantasy_world_object_54
+    21300110: oryx_16bit_fantasy_world_object_55
+    21300112: oryx_16bit_fantasy_world_object_56
+    21300114: oryx_16bit_fantasy_world_object_57
+    21300116: oryx_16bit_fantasy_world_object_58
+    21300118: oryx_16bit_fantasy_world_object_59
+    21300120: oryx_16bit_fantasy_world_object_60
+    21300122: oryx_16bit_fantasy_world_object_61
+    21300124: oryx_16bit_fantasy_world_object_62
+    21300126: oryx_16bit_fantasy_world_object_63
+    21300128: oryx_16bit_fantasy_world_object_64
+    21300130: oryx_16bit_fantasy_world_object_65
+    21300132: oryx_16bit_fantasy_world_object_66
+    21300134: oryx_16bit_fantasy_world_object_67
+    21300136: oryx_16bit_fantasy_world_object_68
+    21300138: oryx_16bit_fantasy_world_object_69
+    21300140: oryx_16bit_fantasy_world_object_70
+    21300142: oryx_16bit_fantasy_world_object_71
+    21300144: oryx_16bit_fantasy_world_object_72
+    21300146: oryx_16bit_fantasy_world_object_73
+    21300148: oryx_16bit_fantasy_world_object_74
+    21300150: oryx_16bit_fantasy_world_object_75
+    21300152: oryx_16bit_fantasy_world_object_76
+    21300154: oryx_16bit_fantasy_world_object_77
+    21300156: oryx_16bit_fantasy_world_object_78
+    21300158: oryx_16bit_fantasy_world_object_79
+    21300160: oryx_16bit_fantasy_world_object_80
+    21300162: oryx_16bit_fantasy_world_object_81
+    21300164: oryx_16bit_fantasy_world_object_82
+    21300166: oryx_16bit_fantasy_world_object_83
+    21300168: oryx_16bit_fantasy_world_object_84
+    21300170: oryx_16bit_fantasy_world_object_85
+    21300172: oryx_16bit_fantasy_world_object_86
+    21300174: oryx_16bit_fantasy_world_object_87
+    21300176: oryx_16bit_fantasy_world_object_88
+    21300178: oryx_16bit_fantasy_world_object_89
+    21300180: oryx_16bit_fantasy_world_object_90
+    21300182: oryx_16bit_fantasy_world_object_91
+    21300184: oryx_16bit_fantasy_world_object_92
+    21300186: oryx_16bit_fantasy_world_object_93
+    21300188: oryx_16bit_fantasy_world_object_94
+    21300190: oryx_16bit_fantasy_world_object_95
+    21300192: oryx_16bit_fantasy_world_object_96
+    21300194: oryx_16bit_fantasy_world_object_97
+    21300196: oryx_16bit_fantasy_world_object_98
+    21300198: oryx_16bit_fantasy_world_object_99
+    21300200: oryx_16bit_fantasy_world_object_100
+    21300202: oryx_16bit_fantasy_world_object_101
+    21300204: oryx_16bit_fantasy_world_object_102
+    21300206: oryx_16bit_fantasy_world_object_103
+    21300208: oryx_16bit_fantasy_world_object_104
+    21300210: oryx_16bit_fantasy_world_object_105
+    21300212: oryx_16bit_fantasy_world_object_106
+    21300214: oryx_16bit_fantasy_world_object_107
+    21300216: oryx_16bit_fantasy_world_object_108
+    21300218: oryx_16bit_fantasy_world_object_109
+    21300220: oryx_16bit_fantasy_world_object_110
+    21300222: oryx_16bit_fantasy_world_object_111
+    21300224: oryx_16bit_fantasy_world_object_112
+    21300226: oryx_16bit_fantasy_world_object_113
+    21300228: oryx_16bit_fantasy_world_object_114
+    21300230: oryx_16bit_fantasy_world_object_115
+    21300232: oryx_16bit_fantasy_world_object_116
+    21300234: oryx_16bit_fantasy_world_object_117
+    21300236: oryx_16bit_fantasy_world_object_118
+    21300238: oryx_16bit_fantasy_world_object_119
+    21300240: oryx_16bit_fantasy_world_object_120
+    21300242: oryx_16bit_fantasy_world_object_121
+    21300244: oryx_16bit_fantasy_world_object_122
+    21300246: oryx_16bit_fantasy_world_object_123
+    21300248: oryx_16bit_fantasy_world_object_124
+    21300250: oryx_16bit_fantasy_world_object_125
+    21300252: oryx_16bit_fantasy_world_object_126
+    21300254: oryx_16bit_fantasy_world_object_127
+    21300256: oryx_16bit_fantasy_world_object_128
+    21300258: oryx_16bit_fantasy_world_object_129
+    21300260: oryx_16bit_fantasy_world_object_130
+    21300262: oryx_16bit_fantasy_world_object_131
+    21300264: oryx_16bit_fantasy_world_object_132
+    21300266: oryx_16bit_fantasy_world_object_133
+    21300268: oryx_16bit_fantasy_world_object_134
+    21300270: oryx_16bit_fantasy_world_object_135
+    21300272: oryx_16bit_fantasy_world_object_136
+    21300274: oryx_16bit_fantasy_world_object_137
+    21300276: oryx_16bit_fantasy_world_object_138
+    21300278: oryx_16bit_fantasy_world_object_139
+    21300280: oryx_16bit_fantasy_world_object_140
+    21300282: oryx_16bit_fantasy_world_object_141
+    21300284: oryx_16bit_fantasy_world_object_142
+    21300286: oryx_16bit_fantasy_world_object_143
+    21300288: oryx_16bit_fantasy_world_object_144
+    21300290: oryx_16bit_fantasy_world_object_145
+    21300292: oryx_16bit_fantasy_world_object_146
+    21300294: oryx_16bit_fantasy_world_object_147
+    21300296: oryx_16bit_fantasy_world_object_148
+    21300298: oryx_16bit_fantasy_world_object_149
+    21300300: oryx_16bit_fantasy_world_object_150
+    21300302: oryx_16bit_fantasy_world_object_151
+    21300304: fantasy_world_object_0
+    21300306: fantasy_world_object_1
+    21300308: fantasy_world_object_2
+    21300310: fantasy_world_object_3
+    21300312: fantasy_world_object_4
+    21300314: fantasy_world_object_5
+    21300316: fantasy_world_object_6
+    21300318: fantasy_world_object_7
+    21300320: fantasy_world_object_8
+    21300322: fantasy_world_object_9
+    21300324: fantasy_world_object_10
+    21300326: fantasy_world_object_11
+    21300328: fantasy_world_object_12
+    21300330: fantasy_world_object_13
+    21300332: fantasy_world_object_14
+    21300334: fantasy_world_object_15
+    21300336: fantasy_world_object_16
+    21300338: fantasy_world_object_17
+    21300340: fantasy_world_object_18
+    21300342: fantasy_world_object_19
+    21300344: fantasy_world_object_20
+    21300346: fantasy_world_object_21
+    21300348: fantasy_world_object_22
+    21300350: fantasy_world_object_23
+    21300352: fantasy_world_object_24
+    21300354: fantasy_world_object_25
+    21300356: fantasy_world_object_26
+    21300358: fantasy_world_object_27
+    21300360: fantasy_world_object_28
+    21300362: fantasy_world_object_29
+    21300364: fantasy_world_object_30
+    21300366: fantasy_world_object_31
+    21300368: fantasy_world_object_32
+    21300370: fantasy_world_object_33
+    21300372: fantasy_world_object_34
+    21300374: fantasy_world_object_35
+    21300376: fantasy_world_object_36
+    21300378: fantasy_world_object_37
+    21300380: fantasy_world_object_38
+    21300382: fantasy_world_object_39
+    21300384: fantasy_world_object_40
+    21300386: fantasy_world_object_41
+    21300388: fantasy_world_object_42
+    21300390: fantasy_world_object_43
+    21300392: fantasy_world_object_44
+    21300394: fantasy_world_object_45
+    21300396: fantasy_world_object_46
+    21300398: fantasy_world_object_47
+    21300400: fantasy_world_object_48
+    21300402: fantasy_world_object_49
+    21300404: fantasy_world_object_50
+    21300406: fantasy_world_object_51
+    21300408: fantasy_world_object_52
+    21300410: fantasy_world_object_53
+    21300412: fantasy_world_object_54
+    21300414: fantasy_world_object_55
+    21300416: fantasy_world_object_56
+    21300418: fantasy_world_object_57
+    21300420: fantasy_world_object_58
+    21300422: fantasy_world_object_59
+    21300424: fantasy_world_object_60
+    21300426: fantasy_world_object_61
+    21300428: fantasy_world_object_62
+    21300430: fantasy_world_object_63
+    21300432: fantasy_world_object_64
+    21300434: fantasy_world_object_65
+    21300436: fantasy_world_object_66
+    21300438: fantasy_world_object_67
+    21300440: fantasy_world_object_68
+    21300442: fantasy_world_object_69
+    21300444: fantasy_world_object_70
+    21300446: fantasy_world_object_71
+    21300448: fantasy_world_object_72
+    21300450: fantasy_world_object_73
+    21300452: fantasy_world_object_74
+    21300454: fantasy_world_object_75
+    21300456: fantasy_world_object_76
+    21300458: fantasy_world_object_77
+    21300460: fantasy_world_object_78
+    21300462: fantasy_world_object_79
+    21300464: fantasy_world_object_80
+    21300466: fantasy_world_object_81
+    21300468: fantasy_world_object_82
+    21300470: fantasy_world_object_83
+    21300472: fantasy_world_object_84
+    21300474: fantasy_world_object_85
+    21300476: fantasy_world_object_86
+    21300478: fantasy_world_object_87
+    21300480: fantasy_world_object_88
+    21300482: fantasy_world_object_89
+    21300484: fantasy_world_object_90
+    21300486: fantasy_world_object_91
+    21300488: fantasy_world_object_92
+    21300490: fantasy_world_object_93
+    21300492: fantasy_world_object_94
+    21300494: fantasy_world_object_95
+    21300496: fantasy_world_object_96
+    21300498: fantasy_world_object_97
+    21300500: fantasy_world_object_98
+    21300502: fantasy_world_object_99
+    21300504: fantasy_world_object_100
+    21300506: fantasy_world_object_101
+    21300508: fantasy_world_object_102
+    21300510: fantasy_world_object_103
+    21300512: fantasy_world_object_104
+    21300514: fantasy_world_object_105
+    21300516: fantasy_world_object_106
+    21300518: fantasy_world_object_107
+    21300520: fantasy_world_object_108
+    21300522: fantasy_world_object_109
+    21300524: fantasy_world_object_110
+    21300526: fantasy_world_object_111
+    21300528: fantasy_world_object_112
+    21300530: fantasy_world_object_113
+    21300532: fantasy_world_object_114
+    21300534: fantasy_world_object_115
+    21300536: fantasy_world_object_116
+    21300538: fantasy_world_object_117
+    21300540: fantasy_world_object_118
+    21300542: fantasy_world_object_119
+    21300544: fantasy_world_object_120
+    21300546: fantasy_world_object_121
+    21300548: fantasy_world_object_122
+    21300550: fantasy_world_object_123
+    21300552: fantasy_world_object_124
+    21300554: fantasy_world_object_125
+    21300556: fantasy_world_object_126
+    21300558: fantasy_world_object_127
+    21300560: fantasy_world_object_128
+    21300562: fantasy_world_object_129
+    21300564: fantasy_world_object_130
+    21300566: fantasy_world_object_131
+    21300568: fantasy_world_object_132
+    21300570: fantasy_world_object_133
+    21300572: fantasy_world_object_134
+    21300574: fantasy_world_object_135
+    21300576: fantasy_world_object_136
+    21300578: fantasy_world_object_137
+    21300580: fantasy_world_object_138
+    21300582: fantasy_world_object_139
+    21300584: fantasy_world_object_140
+    21300586: fantasy_world_object_141
+    21300588: fantasy_world_object_142
+    21300590: fantasy_world_object_143
+    21300592: fantasy_world_object_144
+    21300594: fantasy_world_object_145
+    21300596: fantasy_world_object_146
+    21300598: fantasy_world_object_147
+    21300600: fantasy_world_object_148
+    21300602: fantasy_world_object_149
+    21300604: fantasy_world_object_150
+    21300606: fantasy_world_object_151
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 24
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fantasy_world_object_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_67
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_79
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_93
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_95
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_109
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_117
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_121
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_125
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_127
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_135
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_137
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_139
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_140
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_143
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_145
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_147
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fantasy_world_object_151
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: oryx
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

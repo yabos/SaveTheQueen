@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aac47cee7313b44386713fa7b7fc303, type: 3}
+  m_Name: marble_floor3
+  m_EditorClassIdentifier: 
+  AllSprites:
+  - {fileID: 21300000, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300002, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300004, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300006, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300008, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300010, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300012, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300014, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300016, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300018, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300020, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300022, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300024, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300026, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300028, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300030, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300032, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300034, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300036, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300038, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300040, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300042, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300044, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  - {fileID: 21300046, guid: ad63cb731c8d7404b891d5ccfca35559, type: 3}
+  TileName: marble_floor3

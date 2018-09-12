@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aac47cee7313b44386713fa7b7fc303, type: 3}
+  m_Name: floor13
+  m_EditorClassIdentifier: 
+  AllSprites:
+  - {fileID: 21300648, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300650, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300652, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300654, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300656, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300658, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300660, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300662, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  - {fileID: 21300664, guid: 2ca687e723cf87d458939b5781e595f6, type: 3}
+  AssetName: floor13

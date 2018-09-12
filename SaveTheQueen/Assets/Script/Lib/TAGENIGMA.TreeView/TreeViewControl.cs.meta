@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: b656bb59beaaf4d4a9cdff9f13a7d4ee
+timeCreated: 1496970179
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_skinHover: {instanceID: 0}
+  - m_skinUnselected: {instanceID: 0}
+  - m_skinSelected: {instanceID: 0}
+  - m_textureBlank: {fileID: 2800000, guid: a9aa65b5cadec864fa2f6bf24c2e2054, type: 3}
+  - m_textureGuide: {fileID: 2800000, guid: 49fb2913c1f0c284eabcb436dd60a614, type: 3}
+  - m_textureLastSiblingCollapsed: {fileID: 2800000, guid: 16497d0382968c44d9725c9fb6ad8f13,
+      type: 3}
+  - m_textureLastSiblingExpanded: {fileID: 2800000, guid: a5628cc0edbf222428c4a93b5c460547,
+      type: 3}
+  - m_textureLastSiblingNoChild: {fileID: 2800000, guid: 3d8afa20a8cb9e14e9b48fc6c61d5b78,
+      type: 3}
+  - m_textureMiddleSiblingCollapsed: {fileID: 2800000, guid: 86c08f39a59b6d0499c8ccc5efd0add0,
+      type: 3}
+  - m_textureMiddleSiblingExpanded: {fileID: 2800000, guid: b2534e5fe55594b4c8cd06759537b471,
+      type: 3}
+  - m_textureMiddleSiblingNoChild: {fileID: 2800000, guid: 0b326838721f8d24dbb4c6b175d28c2e,
+      type: 3}
+  - m_textureNormalChecked: {fileID: 2800000, guid: 89665a7d4a86df64ab62326bcea8a8d0,
+      type: 3}
+  - m_textureNormalUnchecked: {fileID: 2800000, guid: 481bb73b5892da5479cc108b1c4e7536,
+      type: 3}
+  - m_textureSelectedBackground: {fileID: 2800000, guid: 90ae539ab2d5c844a8da46e32e03a700,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

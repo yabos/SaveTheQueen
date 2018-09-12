@@ -1,0 +1,7 @@
+id,assetName,spriteName,numIndex,numX,numY
+0,floor_gray,floor_gray_0,0,0,0
+1,floor_gray,floor_gray_1,1,1,0
+2,floor_gray,floor_gray_2,2,2,0
+3,floor_gray,floor_gray_3,3,0,1
+4,floor_gray,floor_gray_4,4,1,1
+5,floor_gray,floor_gray_5,5,2,1

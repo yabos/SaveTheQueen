@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aac47cee7313b44386713fa7b7fc303, type: 3}
+  m_Name: autowall10
+  m_EditorClassIdentifier: 
+  AllSprites:
+  - {fileID: 21301188, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301190, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301192, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301194, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301196, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301198, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301200, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301202, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301204, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301206, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301208, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301210, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301212, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301214, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301216, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301218, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301220, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  - {fileID: 21301222, guid: 380d8fcf987685f45ab5726895a05236, type: 3}
+  AssetName: autowall10
